@@ -3,7 +3,11 @@
 <h3 align="center">B.Tech CSE (AI & ML) | Web Developer | Python Developer | Indus BR State Lead | YouTuber</h3>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sushantcod&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
 
+---
 ## 🔗 Socials & Badges
 
 <p align="left">
