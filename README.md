@@ -26,7 +26,7 @@
 - 🐍 **Python Developer**  
 - 🤖 Learning & building **AI/ML** projects  
 - 🎥 **YouTuber** with **1.2k+ subscribers**  
-  - 🔗 YouTube: **6butdanger**
+  - 🔗 YouTube: **<a href="https://youtube.com/@6bitdanger?si=oAEtbTD1F17UXqtf">6butdanger**</a>
 
 ---
 
