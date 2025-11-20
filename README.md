@@ -11,7 +11,7 @@
 ## 🔗 Socials & Badges
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-6butdanger-red?logo=youtube&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-6bitdanger-red?logo=youtube&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-blue?logo=tensorflow" />
   <img src="https://img.shields.io/badge/Web%20Developer-Full%20Stack-green?logo=javascript" />
   <img src="https://img.shields.io/badge/Python-Developer-yellow?logo=python" />
@@ -26,7 +26,7 @@
 - 🐍 **Python Developer**  
 - 🤖 Learning & building **AI/ML** projects  
 - 🎥 **YouTuber** with **1.2k+ subscribers**  
-  - 🔗 YouTube: **<a href="https://youtube.com/@6bitdanger?si=oAEtbTD1F17UXqtf">6butdanger**</a>
+  - 🔗 YouTube: **<a href="https://youtube.com/@6bitdanger?si=oAEtbTD1F17UXqtf">6bitdanger**</a>
 
 ---
 
